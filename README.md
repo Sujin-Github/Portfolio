@@ -40,6 +40,6 @@
 <img width=45% src="https://times.postech.ac.kr/news/photo/202404/23086_27556_3027.png"> <img width=45% src="https://times.postech.ac.kr/news/photo/202405/23148_27621_80.png">
 
 ## 포스텍 언어문화원 로고 디자인 공모전
-<img width=45% src="https://github.com/Sujin-Github/Portfolio/assets/58881832/7cfed60e-a56b-48e9-80c9-48778d58568">
-<img width=45% src="https://github.com/Sujin-Github/Portfolio/assets/58881832/076c6344-76dc-4ae5-8d3b-11896a4e2c61"><br>
+<img width=70% src="https://github.com/Sujin-Github/Portfolio/assets/58881832/c0ce1f20-02ad-42e6-9d3c-50b04c74c192">
+<img width=70% src="https://github.com/Sujin-Github/Portfolio/assets/58881832/076c6344-76dc-4ae5-8d3b-11896a4e2c61"><br>
 참가
