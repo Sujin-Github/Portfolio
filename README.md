@@ -1,5 +1,6 @@
 # Design Portfolio
 디자인 포트폴리오 2024~
+최종 수정: 2024-05-26
 
 ## 2024 해맞이한마당
 해맞이한마당 준비위원회 디자인팀 팀원   
@@ -34,6 +35,6 @@
 포스터 디자인
 
 ## 포항공대신문 만평
-454호(2024.04.17)~
+454호(2024-04-17) ~
 
 <img width=45% src="https://times.postech.ac.kr/news/photo/202404/23086_27556_3027.png"> <img width=45% src="https://times.postech.ac.kr/news/photo/202405/23148_27621_80.png">
