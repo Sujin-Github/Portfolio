@@ -38,6 +38,7 @@
 454호(2024-04-17) ~
 
 <img width=45% src="https://times.postech.ac.kr/news/photo/202404/23086_27556_3027.png"> <img width=45% src="https://times.postech.ac.kr/news/photo/202405/23148_27621_80.png">
+<img width=45% src="https://github.com/Sujin-Github/Portfolio/assets/58881832/a6be8cbf-2573-4e1d-952b-8f8e9e88854f">
 
 ## 포스텍 언어문화원 로고 디자인 공모전
 <img width=70% src="https://github.com/Sujin-Github/Portfolio/assets/58881832/c0ce1f20-02ad-42e6-9d3c-50b04c74c192">
