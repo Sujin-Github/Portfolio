@@ -43,4 +43,4 @@
 ## 포스텍 언어문화원 로고 디자인 공모전
 <img width=70% src="https://github.com/Sujin-Github/Portfolio/assets/58881832/c0ce1f20-02ad-42e6-9d3c-50b04c74c192">
 <img width=70% src="https://github.com/Sujin-Github/Portfolio/assets/58881832/076c6344-76dc-4ae5-8d3b-11896a4e2c61"><br>
-참가
+2위
